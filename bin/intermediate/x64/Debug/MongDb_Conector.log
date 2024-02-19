@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(516,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  Functions.cpp
+D:\Dev\MongDb_Conector_Read\MongDb_Conector\src\Timer.h(105,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“src/Functions.cpp”)
+  
+D:\Dev\MongDb_Conector_Read\MongDb_Conector\src\Functions.cpp(58,41): warning C4927: 转换非法；隐式应用了多个用户定义的转换
+  D:\Dev\MongDb_Conector_Read\MongDb_Conector\src\Functions.cpp(58,41):
+  调用构造函数“bsoncxx::v_noabi::view_or_value<bsoncxx::v_noabi::document::view,bsoncxx::v_noabi::document::value>::view_or_value(View)”时
+          with
+          [
+              View=bsoncxx::v_noabi::document::view
+          ]
+  D:\Dev\MongDb_Conector_Read\MOngDb_Conector\include\bsoncxx\view_or_value.hpp(59,5):
+  参见“bsoncxx::v_noabi::view_or_value<bsoncxx::v_noabi::document::view,bsoncxx::v_noabi::document::value>::view_or_value”的声明
+  
+  Main.cpp
+D:\Dev\MongDb_Conector_Read\MongDb_Conector\src\Timer.h(105,21): warning C4267: “初始化”: 从“size_t”转换到“uint32_t”，可能丢失数据
+  (编译源文件“src/Main.cpp”)
+  
+  正在生成代码...
+  MongDb_Conector.vcxproj -> D:\Dev\MongDb_Conector_Read\bin\x64\Debug\MongDb_Conector.exe

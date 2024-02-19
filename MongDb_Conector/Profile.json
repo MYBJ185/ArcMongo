@@ -1,0 +1,286 @@
+{
+  "otherData": {
+
+  },
+  "traceEvents": [
+    {
+      "cat": "function",
+      "dur": 1580167,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7743106737
+    },
+    {
+      "cat": "function",
+      "dur": 391886,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7744687117
+    },
+    {
+      "cat": "function",
+      "dur": 395822,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7745079158
+    },
+    {
+      "cat": "function",
+      "dur": 391800,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7745475209
+    },
+    {
+      "cat": "function",
+      "dur": 389173,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7745867308
+    },
+    {
+      "cat": "function",
+      "dur": 392499,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7746256740
+    },
+    {
+      "cat": "function",
+      "dur": 392185,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7746649825
+    },
+    {
+      "cat": "function",
+      "dur": 392143,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7747042188
+    },
+    {
+      "cat": "function",
+      "dur": 391103,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7747434720
+    },
+    {
+      "cat": "function",
+      "dur": 392281,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7747826069
+    },
+    {
+      "cat": "function",
+      "dur": 1003177,
+      "name": "void __cdecl StopReadings(void)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7748218760
+    },
+    {
+      "cat": "function",
+      "dur": 6115253,
+      "name": "Read Data Thread Loop",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7743106731
+    },
+    {
+      "cat": "function",
+      "dur": 396636,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7749222013
+    },
+    {
+      "cat": "function",
+      "dur": 391925,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7749619377
+    },
+    {
+      "cat": "function",
+      "dur": 392204,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7750011838
+    },
+    {
+      "cat": "function",
+      "dur": 392486,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7750404526
+    },
+    {
+      "cat": "function",
+      "dur": 392144,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7750797774
+    },
+    {
+      "cat": "function",
+      "dur": 408045,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7751190160
+    },
+    {
+      "cat": "function",
+      "dur": 398847,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7751598650
+    },
+    {
+      "cat": "function",
+      "dur": 392300,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7751997911
+    },
+    {
+      "cat": "function",
+      "dur": 392437,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7752390602
+    },
+    {
+      "cat": "function",
+      "dur": 392340,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7752783767
+    },
+    {
+      "cat": "function",
+      "dur": 1014953,
+      "name": "void __cdecl StopReadings(void)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7753176752
+    },
+    {
+      "cat": "function",
+      "dur": 4969776,
+      "name": "Read Data Thread Loop",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7749221992
+    },
+    {
+      "cat": "function",
+      "dur": 392228,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7754191797
+    },
+    {
+      "cat": "function",
+      "dur": 394132,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7754584794
+    },
+    {
+      "cat": "function",
+      "dur": 390779,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7754979310
+    },
+    {
+      "cat": "function",
+      "dur": 396005,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7755370532
+    },
+    {
+      "cat": "function",
+      "dur": 392024,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7755766893
+    },
+    {
+      "cat": "function",
+      "dur": 393427,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7756159564
+    },
+    {
+      "cat": "function",
+      "dur": 392358,
+      "name": "class bsoncxx::v_noabi::document::view __cdecl getLatestDocument(class mongocxx::v_noabi::collection &)",
+      "ph": "X",
+      "pid": 40780,
+      "tid": 1737856392,
+      "ts": 7756553566
+    }
+  ]
+}
